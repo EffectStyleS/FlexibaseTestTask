@@ -1,0 +1,14 @@
+C:\Users\sereg\source\repos\FlexibaseTestTask\FlexibaseTestTask\obj\Debug\net6.0\FlexibaseTestTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sereg\source\repos\FlexibaseTestTask\FlexibaseTestTask\obj\Debug\net6.0\FlexibaseTestTask.AssemblyInfoInputs.cache
+C:\Users\sereg\source\repos\FlexibaseTestTask\FlexibaseTestTask\obj\Debug\net6.0\FlexibaseTestTask.AssemblyInfo.cs
+C:\Users\sereg\source\repos\FlexibaseTestTask\FlexibaseTestTask\obj\Debug\net6.0\FlexibaseTestTask.csproj.CoreCompileInputs.cache
+C:\Users\sereg\source\repos\FlexibaseTestTask\FlexibaseTestTask\bin\Debug\net6.0\FlexibaseTestTask.exe
+C:\Users\sereg\source\repos\FlexibaseTestTask\FlexibaseTestTask\bin\Debug\net6.0\FlexibaseTestTask.deps.json
+C:\Users\sereg\source\repos\FlexibaseTestTask\FlexibaseTestTask\bin\Debug\net6.0\FlexibaseTestTask.runtimeconfig.json
+C:\Users\sereg\source\repos\FlexibaseTestTask\FlexibaseTestTask\bin\Debug\net6.0\FlexibaseTestTask.dll
+C:\Users\sereg\source\repos\FlexibaseTestTask\FlexibaseTestTask\bin\Debug\net6.0\FlexibaseTestTask.pdb
+C:\Users\sereg\source\repos\FlexibaseTestTask\FlexibaseTestTask\obj\Debug\net6.0\FlexibaseTestTask.dll
+C:\Users\sereg\source\repos\FlexibaseTestTask\FlexibaseTestTask\obj\Debug\net6.0\refint\FlexibaseTestTask.dll
+C:\Users\sereg\source\repos\FlexibaseTestTask\FlexibaseTestTask\obj\Debug\net6.0\FlexibaseTestTask.pdb
+C:\Users\sereg\source\repos\FlexibaseTestTask\FlexibaseTestTask\obj\Debug\net6.0\FlexibaseTestTask.genruntimeconfig.cache
+C:\Users\sereg\source\repos\FlexibaseTestTask\FlexibaseTestTask\obj\Debug\net6.0\ref\FlexibaseTestTask.dll
